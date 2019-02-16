@@ -3,11 +3,11 @@
 It is a dictionary created from the contents of MDN HTTP response status codes pages.
 
 
-# Usage
+## Usage
 Please download `HTTP.Status.Codes.dictionary.zip` from [Releases](https://github.com/nkzsdy/macos_http_status_code_dictionary/releases).  
 After decompressing the zip file, move `HTTP Status Codes.dictionary` to`/Users/[username]/Library/Dictionaries`.  
 Run "Dictionary.app" > "Preferences..." > check "HTTP Status Codes"
 
-# TODO
+## TODO
 * Multilingualization
-* Enable to open browser on the dialog
+* Enable to open browser on the dialog directly
